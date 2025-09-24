@@ -4,9 +4,7 @@ import joblib
 import shap
 import matplotlib.pyplot as plt
 
-# ----------------------------
-# Load Models & Scaler
-# ----------------------------
+
 models = {
     "Logistic Regression": joblib.load("log_reg.pkl"),
     "Random Forest": joblib.load("rf.pkl"),
@@ -17,7 +15,7 @@ models = {
 
 scaler = joblib.load("scaler.pkl")
 
-# ----------------------------
+-
 st.set_page_config(page_title="Bankruptcy Risk Dashboard", layout="wide")
 st.title("🏦 Corporate Bankruptcy & Financial Distress Prediction")
 
