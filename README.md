@@ -59,3 +59,6 @@ Make sure bankruptcy.ipynb, train_models.ipynb, app.py, and the dataset are in t
 First, run bankruptcy.ipynb to preprocess the data.
 Then, run train_models.ipynb to train the models.
 Finally, launch the app using the terminal or command prompt: streamlit run app.py
+
+
+Developed by [swati kumari] — passionate data vizualization and data science.
