@@ -43,15 +43,16 @@ Matplotlib, Pandas, NumPy
 Project Structure
 
 Bankruptcy-Prediction-Project
-│── app.py                
-│── train_models.py       
-│── data.csv              
-│── scaler.pkl           
-│── log_reg.pkl           
-│── rf.pkl                
-│── xgb.pkl               
-│── cat.pkl               
-│── README.md    
+  
+  app.py                
+  train_models.py       
+  data.csv              
+  scaler.pkl           
+  log_reg.pkl           
+  rf.pkl                
+  xgb.pkl               
+  cat.pkl               
+  README.md    
 
 How to Run ? 
 
